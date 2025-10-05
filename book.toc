@@ -1,0 +1,205 @@
+\tocchapterentry {使用本书}{1}{1}
+\tocsectionentry {语法约定}{2}
+\tocsectionentry {命令描述}{3}
+\tocchapterentry {使用 \TeX }{2}{8}
+\tocsectionentry {从键盘输入变到油墨}{8}
+\tocsubsectionentry {所需的程序和文件}{8}
+\tocsubsectionentry {运行 \TeX }{8}
+\tocsectionentry {准备输入文件}{9}
+\tocsubsectionentry {命令和控制序列}{9}
+\tocsubsectionentry {参量}{10}
+\tocsubsectionentry {参数}{11}
+\tocsubsectionentry {空格}{11}
+\tocsubsectionentry {注释}{12}
+\tocsubsectionentry {标点}{12}
+\tocsubsectionentry {特殊字符}{13}
+\tocsubsectionentry {编组}{13}
+\tocsubsectionentry {数学公式}{14}
+\tocsectionentry {\TeX \ 如何工作}{15}
+\tocsectionentry {新 \TeX \ 和老 \TeX }{16}
+\tocsectionentry {资源}{16}
+\tocchapterentry {例子}{3}{22}
+\tocsectionentry{输入简单文本}{23}
+\tocsectionentry{缩进}{25}
+\tocsectionentry{字体和特殊字符}{27}
+\tocsectionentry{行间距}{29}
+\tocsectionentry{间隔、标线和盒子}{31}
+\tocsectionentry{杂项}{33}
+\tocsectionentry{使用其他来源的字体}{35}
+\tocsectionentry{标线表格}{37}
+\tocsectionentry{排版数学公式}{39}
+\tocsectionentry{更多数学内容}{41}
+\tocchapterentry {概念}{4}{46}
+\tocchapterentry {组段命令}{5}{90}
+\tocsectionentry {字符和重音符}{90}
+\tocsubsectionentry {欧洲语言字母和连写}{90}
+\tocsubsectionentry {专用符号}{91}
+\tocsubsectionentry {任意字符}{92}
+\tocsubsectionentry {重音符号}{93}
+\tocsubsectionentry {处理页边连写}{94}
+\tocsectionentry {选择字体}{95}
+\tocsubsectionentry {特定字体}{95}
+\tocsubsectionentry {字体风格}{96}
+\tocsectionentry {大写和小写}{96}
+\tocsectionentry {单词间距}{97}
+\tocsectionentry {行的居中和平均分布}{101}
+\tocsectionentry {塑段}{103}
+\tocsubsectionentry {段落的开始、结束和缩进}{103}
+\tocsubsectionentry {形成段落}{106}
+\tocsectionentry {断行}{114}
+\tocsubsectionentry {鼓励或阻碍断行}{114}
+\tocsubsectionentry {断行参数}{117}
+\tocsubsectionentry {连字}{120}
+\tocsectionentry {分节、列表和定理}{124}
+\tocchapterentry {组页命令}{6}{128}
+\tocsectionentry {行间距和段间距}{128}
+\tocsectionentry {分页}{131}
+\tocsubsectionentry {鼓励或阻碍分页}{131}
+\tocsubsectionentry {分页参数}{132}
+\tocsectionentry {页面布局}{134}
+\tocsubsectionentry {页面描述参数}{134}
+\tocsubsectionentry {页码}{135}
+\tocsubsectionentry {页眉和页脚}{136}
+\tocsubsectionentry {标记}{136}
+\tocsectionentry {插入项}{137}
+\tocsubsectionentry {脚注}{137}
+\tocsubsectionentry {一般插入项}{138}
+\tocsectionentry {修改输出例行程序}{139}
+\tocsectionentry {分割竖直列表}{140}
+\tocchapterentry {水平和竖直模式命令}{7}{144}
+\tocsectionentry {产生间隔}{144}
+\tocsubsectionentry {固定宽度水平间隔}{144}
+\tocsubsectionentry {固定长度竖直间隔}{146}
+\tocsubsectionentry {可变尺寸间隔}{147}
+\tocsectionentry {操作盒子}{150}
+\tocsubsectionentry {构造 hbox 和 vbox}{150}
+\tocsubsectionentry {设置和获取盒子的内容}{154}
+\tocsubsectionentry {移动盒子}{155}
+\tocsubsectionentry {支架、幻影和空盒子}{156}
+\tocsubsectionentry {有关畸形盒子的参数}{159}
+\tocsectionentry {从列表中获取最后的项目}{160}
+\tocsectionentry {标线与指引线}{161}
+\tocsectionentry {阵列}{164}
+\tocsubsectionentry {制表阵列}{164}
+\tocsubsectionentry {常规阵列}{166}
+\tocchapterentry {数学公式命令}{8}{176}
+\tocsectionentry {简单公式排版}{176}
+\tocsubsectionentry {希腊字母}{176}
+\tocsubsectionentry {各种普通数学符号}{177}
+\tocsubsectionentry {二元运算符}{178}
+\tocsubsectionentry {关系符号}{180}
+\tocsubsectionentry {左右定界符}{181}
+\tocsubsectionentry {箭头}{182}
+\tocsubsectionentry {已命名的数学函数}{183}
+\tocsubsectionentry {巨算符}{184}
+\tocsubsectionentry {标点}{185}
+\tocsectionentry {上标和下标}{186}
+\tocsubsectionentry {选用样式}{187}
+\tocsectionentry {复合符号}{188}
+\tocsubsectionentry {数学重音}{188}
+\tocsubsectionentry {分式和其他堆叠运算}{189}
+\tocsubsectionentry {圆点}{191}
+\tocsubsectionentry {定界符}{192}
+\tocsubsectionentry {矩阵}{194}
+\tocsubsectionentry {根号与根数}{195}
+\tocsectionentry {方程编号}{195}
+\tocsectionentry {多行陈列公式}{196}
+\tocsectionentry {数学公式字体}{198}
+\tocsectionentry {构造数学符号}{200}
+\tocsubsectionentry {增大定界符}{200}
+\tocsubsectionentry {大符号的一部分}{200}
+\tocsectionentry {对齐部分公式}{201}
+\tocsubsectionentry {对齐数学重音}{201}
+\tocsubsectionentry {竖直对齐素材}{202}
+\tocsectionentry {生成间隔}{203}
+\tocsubsectionentry {固定宽度数学间隔}{203}
+\tocsubsectionentry {可变宽度数学间隔}{204}
+\tocsubsectionentry {陈列公式的间隔参数}{205}
+\tocsubsectionentry {其他的数学间隔参数}{207}
+\tocsectionentry {分类数学结构}{207}
+\tocsectionentry {特殊处理数学公式}{208}
+\tocchapterentry {一般操作命令}{9}{212}
+\tocsectionentry {命名及修改字体}{212}
+\tocsectionentry {把信息转为记号}{215}
+\tocsubsectionentry {数值}{215}
+\tocsubsectionentry {环境信息}{215}
+\tocsubsectionentry {变量的值}{216}
+\tocsectionentry {编组}{217}
+\tocsectionentry {宏}{220}
+\tocsubsectionentry {定义宏}{220}
+\tocsubsectionentry {其它定义方法}{222}
+\tocsubsectionentry {控制展开}{223}
+\tocsubsectionentry {条件测试}{224}
+\tocsubsectionentry {重复操作}{229}
+\tocsubsectionentry {什么也不做}{230}
+\tocsectionentry {寄存器}{231}
+\tocsubsectionentry {使用寄存器}{231}
+\tocsubsectionentry {命名和预留寄存器等}{233}
+\tocsubsectionentry {寄存器中的算术运算}{234}
+\tocsectionentry {结束任务}{235}
+\tocsectionentry {输入和输出}{235}
+\tocsubsectionentry {操作输入文件}{235}
+\tocsubsectionentry {操作输出文件}{237}
+\tocsubsectionentry {解释输入字符}{238}
+\tocsectionentry {控制与 \TeX \ 的交互}{240}
+\tocsectionentry {帮助调试}{241}
+\tocsubsectionentry {显示内部数据}{241}
+\tocsubsectionentry {指定追踪的内容}{243}
+\tocsubsectionentry {传送信息}{247}
+\tocsectionentry {初始化 \TeX }{249}
+\tocchapterentry {建议和技巧}{10}{252}
+\tocsectionentry {纠正不良分页}{252}
+\tocsectionentry {保留页尾}{254}
+\tocsectionentry {保留页首空白}{254}
+\tocsectionentry {纠正不良断行}{254}
+\tocsectionentry {纠正溢出或未满盒子}{255}
+\tocsectionentry {恢复丢失的单词间距}{255}
+\tocsectionentry {避免多余的单词间空白}{255}
+\tocsectionentry {避免陈列公式周围的额外空白}{256}
+\tocsectionentry {避免段后的额外空白}{257}
+\tocsectionentry {改变段落形状}{257}
+\tocsectionentry {把段落放入盒子}{258}
+\tocsectionentry {画线}{258}
+\tocsectionentry {创建多行的页眉页脚}{259}
+\tocsectionentry {找出匹配错误的花括号}{260}
+\tocsectionentry {设置尺寸}{261}
+\tocsectionentry {创建混合字体}{261}
+\tocsectionentry {原文呈现}{262}
+\tocsectionentry {使用外部宏}{264}
+\tocsectionentry {改变类别码}{265}
+\tocsectionentry {使宏文档易读}{265}
+\tocchapterentry {理解错误信息}{11}{270}
+\tocsectionentry {第一个例子}{270}
+\tocsectionentry {第二个例子}{272}
+\tocsectionentry {第三个例子}{273}
+\tocsectionentry {第四个例子}{273}
+\tocsectionentry {第五个例子}{274}
+\tocchapterentry {实用宏集概述}{12}{278}
+\tocsectionentry {预备定义}{278}
+\tocsectionentry {陈列公式}{282}
+\tocsectionentry {日期时间}{284}
+\tocsectionentry {列表}{285}
+\tocsectionentry {原文呈现}{287}
+\tocsectionentry {目录}{287}
+\tocsectionentry {交叉引用}{289}
+\tocsectionentry {环境}{292}
+\tocsectionentry {对齐}{294}
+\tocsectionentry {表格}{295}
+\tocsectionentry {脚注}{296}
+\tocsectionentry {双栏}{297}
+\tocsectionentry {收尾}{299}
+\tocchapterentry {命令速查表}{13}{302}
+\setback 
+\tocchapterentry {GNU 自由文档许可证}{14}{330}
+\tocsectionentry {PREAMBLE}{330}
+\tocsectionentry {APPLICABILITY AND DEFINITIONS}{331}
+\tocsectionentry {VERBATIM COPYING}{333}
+\tocsectionentry {COPYING IN QUANTITY}{333}
+\tocsectionentry {MODIFICATIONS}{334}
+\tocsectionentry {COMBINING DOCUMENTS}{336}
+\tocsectionentry {COLLECTIONS OF DOCUMENTS}{337}
+\tocsectionentry {AGGREGATION WITH INDEPENDENT WORKS}{337}
+\tocsectionentry {TRANSLATION}{338}
+\tocsectionentry {TERMINATION}{338}
+\tocsectionentry {FUTURE REVISIONS OF THIS LICENSE}{339}
+\tocchapterentry {索引}{15}{343}
